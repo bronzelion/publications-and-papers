@@ -19,7 +19,6 @@ A collection of publications, presentations and prior projects.
 * Tags : Machine Learning, Supervised learning
 * Links : [Journal publication](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.695.106&rep=rep1&type=pdf)
 
-
 ## Technical Drafts
 
 ### 2D-to-3D : Interactive construction of 3D Models from Images
@@ -31,3 +30,13 @@ A collection of publications, presentations and prior projects.
 ### Offline Handwriting Detection
 * Description : An approach to detect and process handwriting from images. Learning the classic OCR technqiues.
 * Tags : Machine Learning, Neural nets, Image processing, OpenCV
+
+
+### Spoken Language Identification
+* Description : An attempt to detect a few regional languages of India, given an utterance
+* Tags : Machine Learning, MFCC, Signal Procesing, Audio, Undergrad Project 
+
+
+### Musical Instrument Recognition
+* Description : A novel approach to detect an instrument given an audio clip/recording.
+* Tags : Machine Learning, MFCC, Signal Procesing, Audio, Resarch Elective
